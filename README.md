@@ -1,4 +1,4 @@
-# C-Sharp-Data-Importator-And-Validator
+# C-Sharp-Data-Importation-And-Validation
 This tool is intended to automatically import an archive file, extract it, and validate the text files content.
 The tool will also connect to the database to fill automatically the database table with the data that was validated before.
 
